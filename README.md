@@ -1,7 +1,7 @@
 # stock_web_app
 
 Simple stock visualization application that is based on Yahoo Finance Data and graphs that show up the progress.
-file:///home/eftihiakf/Pictures/Screenshot%20from%202021-07-10%2018-10-57.png![image](https://user-images.githubusercontent.com/16444615/125167674-6a5b7280-e1aa-11eb-90f6-6600b5bed552.png)
+![image](https://user-images.githubusercontent.com/16444615/125167674-6a5b7280-e1aa-11eb-90f6-6600b5bed552.png)
 
 <h3>Language</h3>
 Python 3.6.9
