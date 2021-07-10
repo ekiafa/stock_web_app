@@ -6,8 +6,8 @@ Simple stock visualization application that is based on Yahoo Finance Data and g
 Python 3.6.9
 
 <h3>Framework</h3>
-Flask
-Dash
+<li>Flask</li>
+<li>Dash</li>
 
 <h3>License</h3>
 
